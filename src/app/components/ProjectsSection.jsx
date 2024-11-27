@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "✨My first portfolio✨",
-    description: "my first portfolio with pure HTML and CSS",
+    description: "My first portfolio with pure HTML and CSS",
     image: "/images/baby-bunny.jpg",
     tag: ["All", "Dev"],
     gitUrl: "https://github.com/Molly2605/portfolio-DEMO",
@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "IA:mæv",
-    description: "AI fashion assistant called :mæv",
+    description: "AI Fashion Assistant App called :mæv. User research was conducted. The functional app is in Figma.",
     image: "/images/ia-app.jpg",
     tag: ["All", "UX/UI"],
     gitUrl: "",
